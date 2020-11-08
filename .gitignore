@@ -30,3 +30,13 @@ project/\.idea/gradle\.xml
 project/\.idea/misc\.xml
 
 project/\.idea/vcs\.xml
+
+project/\.gradle/6\.5\.1/executionHistory/executionHistory\.bin
+
+project/\.gradle/6\.5\.1/executionHistory/executionHistory\.lock
+
+project/\.gradle/6\.5\.1/fileChanges/last-build\.bin
+
+project/\.gradle/6\.5\.1/fileHashes/fileHashes\.lock
+
+project/\.gradle/6\.5\.1/gc\.properties

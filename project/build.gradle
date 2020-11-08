@@ -1,3 +1,6 @@
 group 'com.bunny'
 version '1.0-SNAPSHOT'
 
+subprojects {
+    println("Build subproject: $project.name")
+}
