@@ -40,3 +40,21 @@ project/\.gradle/6\.5\.1/fileChanges/last-build\.bin
 project/\.gradle/6\.5\.1/fileHashes/fileHashes\.lock
 
 project/\.gradle/6\.5\.1/gc\.properties
+
+project/apps/microservice1/gradle\.properties
+
+project/apps/microservice1/gradle/wrapper/gradle-wrapper\.jar
+
+project/apps/microservice1/gradle/wrapper/gradle-wrapper\.properties
+
+project/apps/microservice1/gradlew
+
+project/apps/microservice1/gradlew\.bat
+
+project/\.gradle/6\.5\.1/fileContent/fileContent\.lock
+
+project/\.gradle/6\.5\.1/fileHashes/fileHashes\.bin
+
+project/\.gradle/6\.5\.1/fileHashes/resourceHashesCache\.bin
+
+project/build/kotlin/sessions/kotlin-compiler-7062065878170163066\.salive
