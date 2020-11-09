@@ -7,7 +7,7 @@ plugins {
 }
 
 version "0.1"
-group "microservice1"
+group "com.bunny.microservice1"
 
 repositories {
     mavenCentral()
@@ -34,7 +34,7 @@ dependencies {
     runtimeOnly("com.fasterxml.jackson.module:jackson-module-kotlin")
 }
 
-mainClassName = "microservice1.ApplicationKt"
+mainClassName = "com.bunny.microservice1.ApplicationKt"
 java {
     sourceCompatibility = JavaVersion.toVersion('1.8')
 }

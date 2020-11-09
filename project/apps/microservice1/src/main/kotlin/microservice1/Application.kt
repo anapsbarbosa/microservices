@@ -1,10 +1,10 @@
-package microservice1
+package com.bunny.microservice1
 
 import io.micronaut.runtime.Micronaut.*
 fun main(args: Array<String>) {
 	build()
 	    .args(*args)
-		.packages("microservice1")
+		.packages("com.bunny.microservice1")
 		.start()
 }
 

@@ -1,5 +1,5 @@
 group 'com.bunny'
-version '1.0-SNAPSHOT'
+version '1.0'
 
 subprojects {
     println("Build subproject: $project.name")

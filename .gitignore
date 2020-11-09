@@ -58,3 +58,5 @@ project/\.gradle/6\.5\.1/fileHashes/fileHashes\.bin
 project/\.gradle/6\.5\.1/fileHashes/resourceHashesCache\.bin
 
 project/build/kotlin/sessions/kotlin-compiler-7062065878170163066\.salive
+
+*.salive
