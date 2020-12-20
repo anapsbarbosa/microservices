@@ -1,22 +1,7 @@
-
-project/\.gradle/6\.1\.1/executionHistory/executionHistory\.bin
-
-project/\.gradle/6\.1\.1/executionHistory/executionHistory\.lock
-
-project/\.gradle/6\.1\.1/fileContent/fileContent\.lock
-
-project/\.gradle/6\.1\.1/fileHashes/fileHashes\.bin
-
-project/\.gradle/6\.1\.1/fileHashes/fileHashes\.lock
-
-project/\.gradle/buildOutputCleanup/buildOutputCleanup\.lock
-
-project/\.gradle/buildOutputCleanup/outputFiles\.bin
-
-project/build/kotlin/project10jar-classes\.txt
-
-project/build/libs/project-1\.0\.jar
-
-project/build/tmp/jar/MANIFEST\.MF
+project/build/
 
 project/\.idea/
+
+project/\.gradle/
+
+project/apps/microservice1/build/
