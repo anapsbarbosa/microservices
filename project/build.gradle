@@ -19,3 +19,7 @@ compileKotlin {
 compileTestKotlin {
     kotlinOptions.jvmTarget = "1.8"
 }
+
+subprojects {
+    println("Build subproject: $project.name")
+}
